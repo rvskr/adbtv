@@ -3,19 +3,24 @@
 ADB TV is a comprehensive solution for remotely managing your Android TV devices, Smart TVs, and set-top boxes via ADB over Wi-Fi.
 
 ## Main Image
-
 ### Icon 1
-![Icon 1](images/1.png)
+<img src="images/1.png" alt="Icon 1" width="300"/>
+
 ### Icon 2
-![Icon 2](images/2.png)
+<img src="images/2.png" alt="Icon 2" width="300"/>
+
 ### Icon 3
-![Icon 3](images/3.png)
+<img src="images/3.png" alt="Icon 3" width="300"/>
+
 ### Icon 4
-![Icon 4](images/4.png)
+<img src="images/4.png" alt="Icon 4" width="300"/>
+
 ### Icon 5
-![Icon 5](images/5.png)
+<img src="images/5.png" alt="Icon 5" width="300"/>
+
 ### Icon 6
-![Icon 6](images/6.png)
+<img src="images/6.png" alt="Icon 6" width="300"/>
+
 
 ---
 
