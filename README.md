@@ -4,13 +4,18 @@ ADB TV is a comprehensive solution for remotely managing your Android TV devices
 
 ## Main Image
 
-### [Image 1: App Icon / Main Screen](images/1.png)
-### [Image 2: App Management Interface](images/2.png)
-### [Image 3: File Manager Interface](images/3.png)
-### [Image 4: Voice Control Interface](images/4.png)
-### [Image 5: Tools and Shell Interface](images/5.png)
-### [Image 6: Privacy/Security Icon](images/6.png)
-
+### Icon 1
+![Icon 1](images/1.png)
+### Icon 2
+![Icon 2](images/2.png)
+### Icon 3
+![Icon 3](images/3.png)
+### Icon 4
+![Icon 4](images/4.png)
+### Icon 5
+![Icon 5](images/5.png)
+### Icon 6
+![Icon 6](images/6.png)
 
 ---
 
