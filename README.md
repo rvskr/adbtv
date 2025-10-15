@@ -3,37 +3,13 @@
 ADB TV is a comprehensive solution for remotely managing your Android TV devices, Smart TVs, and set-top boxes via ADB over Wi-Fi.
 
 <p align="center">
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="images/1.png" alt="Icon 1" width="220"/><br/>
-    <figcaption>Icon 1</figcaption>
-  </figure>
-
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="images/2.png" alt="Icon 2" width="220"/><br/>
-    <figcaption>Icon 2</figcaption>
-  </figure>
-
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="images/3.png" alt="Icon 3" width="220"/><br/>
-    <figcaption>Icon 3</figcaption>
-  </figure>
-</p>
-
-<p align="center">
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="images/4.png" alt="Icon 4" width="220"/><br/>
-    <figcaption>Icon 4</figcaption>
-  </figure>
-
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="images/5.png" alt="Icon 5" width="220"/><br/>
-    <figcaption>Icon 5</figcaption>
-  </figure>
-
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="images/6.png" alt="Icon 6" width="220"/><br/>
-    <figcaption>Icon 6</figcaption>
-  </figure>
+  <img src="images/1.png" width="200"/>
+  <img src="images/2.png" width="200"/>
+  <img src="images/3.png" width="200"/>
+  <br/>
+  <img src="images/4.png" width="200"/>
+  <img src="images/5.png" width="200"/>
+  <img src="images/6.png" width="200"/>
 </p>
 
 ---
