@@ -4,7 +4,13 @@ ADB TV is a comprehensive solution for remotely managing your Android TV devices
 
 ## Main Image
 
-### [Image 1: App Icon / Main Screen](images/adb_tv_main_icon.png)
+### [Image 1: App Icon / Main Screen](images/1.png)
+### [Image 2: App Management Interface](images/2.png)
+### [Image 3: File Manager Interface](images/3.png)
+### [Image 4: Voice Control Interface](images/4.png)
+### [Image 5: Tools and Shell Interface](images/5.png)
+### [Image 6: Privacy/Security Icon](images/6.png)
+
 
 ---
 
@@ -23,7 +29,7 @@ ADB TV is a comprehensive solution for remotely managing your Android TV devices
 
 Easily manage all installed applications: install new ones, uninstall, clear data, and more.
 
-### [Image 2: App Management Interface](images/app_manager_screen.png)
+
 
 * View installed applications
 * Install APK files
@@ -37,7 +43,7 @@ Easily manage all installed applications: install new ones, uninstall, clear dat
 
 Full access to your TV's file system for easy file transfer and management.
 
-### [Image 3: File Manager Interface](images/file_manager_screen.png)
+
 
 * View file system
 * Upload files to TV
@@ -49,7 +55,7 @@ Full access to your TV's file system for easy file transfer and management.
 
 Use voice capabilities for search and quick launching of applications.
 
-### [Image 4: Voice Control Interface](images/voice_control_screen.png)
+
 
 * Voice search on TV
 * Launch applications by voice
@@ -60,7 +66,7 @@ Use voice capabilities for search and quick launching of applications.
 
 Powerful tools for system administration, diagnostics, and power management.
 
-### [Image 5: Tools and Shell Interface](images/tools_shell_screen.png)
+
 
 * Execute shell commands
 * Information about CPU, memory, battery
@@ -77,7 +83,7 @@ Powerful tools for system administration, diagnostics, and power management.
 
 ## 🔒 PRIVACY
 
-### [Image 6: Privacy/Security Icon](images/privacy_security_icon.png)
+
 
 We value your privacy:
 * All data is stored locally
